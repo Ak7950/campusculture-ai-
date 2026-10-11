@@ -1,0 +1,5 @@
+[
+  {"audience":{"name":"Indie music society","interests":["indie music","acoustic","art"]},"event_type":"music night","location":"Patiala","attendees":120,"budget":60000,"currency":"INR","constraints":["No alcohol"]},
+  {"audience":{"name":"Gaming and anime club","interests":["anime","gaming","cosplay"]},"event_type":"club festival","location":"Delhi","attendees":200,"budget":100000,"currency":"INR","constraints":["Vegetarian only"]},
+  {"audience":{"name":"Dance and pop fans","interests":["bollywood","dance","pop"]},"event_type":"freshers party","location":"Chandigarh","attendees":300,"budget":150000,"currency":"INR","constraints":["No alcohol","Nut-free"]}
+]
